@@ -1,0 +1,7 @@
+# Title: Félx's Server Blocklists
+# Description: Block useless requests to have less workload on the network.
+# Homepage: https://github.com/LeBazarDeBryan/Presets
+# License: https://github.com/LeBazarDeBryan/Presets/blob/main/LICENSE
+# Syntax: Hosts
+#
+127.0.0.1 bstats.org
