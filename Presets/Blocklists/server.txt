@@ -59,3 +59,5 @@
 0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 feedback.search.microsoft.com
 0.0.0.0 feedback.windows.com
+0.0.0.0 static.cloudflareinsights.com
+
