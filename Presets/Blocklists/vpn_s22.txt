@@ -2,7 +2,7 @@
 # Description: DO NOT USE THIS BLOCKLISTS, ITS ONLY FOR PERSONAL USE!
 # Homepage: https://github.com/LeBazarDeBryan/Presets
 # License: https://github.com/LeBazarDeBryan/Presets/blob/main/LICENSE
-# Syntax: Hosts
+# Syntax: RegEx
 
 *.samsungcloud.com
 *.samsung.com
