@@ -8,7 +8,6 @@
 0.0.0.0 *samsung.com
 0.0.0.0 *samsungdm.com
 0.0.0.0 *google.com
-0.0.0.0 *googleapis.com
 0.0.0.0 *jstor.org
 0.0.0.0 *cambridge.org
 0.0.0.0 *tizen.org
