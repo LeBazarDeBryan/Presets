@@ -4,28 +4,28 @@
 # License: https://github.com/LeBazarDeBryan/Presets/blob/main/LICENSE
 # Syntax: Hosts
 
-0.0.0.0 *samsungcloud.com
-0.0.0.0 *samsung.com
-0.0.0.0 *samsungdm.com
-0.0.0.0 *google.com
-0.0.0.0 *jstor.org
-0.0.0.0 *cambridge.org
-0.0.0.0 *tizen.org
-0.0.0.0 *int08h.org
-0.0.0.0 *onion
-0.0.0.0 *goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
-0.0.0.0 *change.org
-0.0.0.0 *gstatic.com
-0.0.0.0 *microsoft.com
-0.0.0.0 *weather.com
-0.0.0.0 *acm.org
-0.0.0.0 *appcenter.ms
-0.0.0.0 *dtignite.com
-0.0.0.0 *samsung-sm-ds.com
-0.0.0.0 *cloudflare.com
-0.0.0.0 *bixbyllm.com
-0.0.0.0 *sfx.ms
-0.0.0.0 *exp-tas.com
-0.0.0.0 *samsungmobile.com
-0.0.0.0 *crashlytics.com
-0.0.0.0 *sbixby.com
+*.samsungcloud.com
+*.samsung.com
+*.samsungdm.com
+*.google.com
+*.jstor.org
+*.cambridge.org
+*.tizen.org
+*.int08h.org
+*.onion
+*.goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
+*.change.org
+*.gstatic.com
+*.microsoft.com
+*.weather.com
+*.acm.org
+*.appcenter.ms
+*.dtignite.com
+*.samsung-sm-ds.com
+*.cloudflare.com
+*.bixbyllm.com
+*.sfx.ms
+*.exp-tas.com
+*.samsungmobile.com
+*.crashlytics.com
+*.sbixby.com
